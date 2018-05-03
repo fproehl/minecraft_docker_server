@@ -1,0 +1,11 @@
+#Ignore everything
+*
+#Add the following
+!README.md
+!.gitignore
+!Dockerfile
+!build_minecraft_image.sh
+!eula.txt
+!run_minecraft_server.sh
+!server.properties
+!./world_permanent/
